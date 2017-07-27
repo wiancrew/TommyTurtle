@@ -1,17 +1,21 @@
-Contributor Code of Conduct
+Any way and form of help is great. Thank you for contributing!
 
-As contributors and maintainers of this project, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, 
-submitting pull requests or patches, and other activities.
+Contributing
 
-We are committed to making participation in this project a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, 
-sexual orientation, disability, personal appearance, body size, race, ethnicity, age, or religion.
+Please refer to each project's style guidelines and guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
 
-Examples of unacceptable behavior by participants include the use of sexual language or imagery, derogatory comments or personal attacks, trolling, public or private 
-harassment, insults, or other unprofessional conduct.
+Fork the repo on GitHub
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to 
-this Code of Conduct. Project maintainers who do not follow the Code of Conduct may be removed from the project team.
+Clone the project to your own machine
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening an issue or contacting one or more of the project maintainers.
+Commit changes to your own branch
 
-This Code of Conduct is adapted from the Contributor Covenant, version 1.0.0, available from http://contributor-covenant.org/version/1/0/0/
+Push your work back up to your fork
+
+Submit a Pull request so that we can review your changes
+
+NOTE: Be sure to merge the latest from "upstream" before making a pull request!
+
+Issues
+
+Feel free to submit issues and enhancement requests.
